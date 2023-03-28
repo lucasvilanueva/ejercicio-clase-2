@@ -1,8 +1,5 @@
 git and github
 cambio desde r remoto
-<<<<<<< HEAD
 modifico esto
-
-=======
 cambio 3
->>>>>>> 5c65e9bc031e391d1962c6d65f33a4a29e86923e
+
